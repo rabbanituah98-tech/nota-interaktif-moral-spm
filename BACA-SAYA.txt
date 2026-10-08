@@ -1,0 +1,23 @@
+NOTA LAST MINIT PENDIDIKAN MORAL SPM (Tingkatan 4 & 5)
+Disediakan oleh Cikgu Rabbani, SMK Dato' Undang Musa Al-Haj, Jelebu
+
+KANDUNGAN FOLDER
+- index.html           -> laman nota (semua dalam satu fail)
+- manifest.json        -> maklumat "app" untuk shortcut Android
+- icon-192.png, icon-512.png -> ikon shortcut Android
+- apple-touch-icon.png -> ikon shortcut iPhone (juga sudah tertanam dalam index.html)
+
+CARA PUBLISH DI GITHUB PAGES
+1. Buat repository baharu (cth: nota-moral-spm) dan pastikan Public.
+2. Add file > Upload files > muat naik SEMUA fail dalam folder ini > Commit changes.
+3. Settings > Pages > Source: "Deploy from a branch" > Branch: main / (root) > Save.
+4. Tunggu 1-2 minit. Pautan: https://NAMA-GITHUB-ANDA.github.io/nota-moral-spm/
+
+CARA JADIKAN SHORTCUT DI TELEFON
+- iPhone (Safari): buka pautan > butang Kongsi > "Add to Home Screen".
+- Android (Chrome): buka pautan > menu ⋮ > "Add to Home screen" / "Install app".
+
+NOTA
+- Tiada CDN atau fon luar — boleh dibuka walaupun rangkaian sekolah menyekat CDN.
+- Kemajuan "Sudah faham", mod siang/malam dan saiz tulisan disimpan dalam pelayar murid sendiri.
+- Butang 🖨️ di atas = cetak semua nota; butang "Cetak" pada setiap unit = cetak unit itu sahaja.
